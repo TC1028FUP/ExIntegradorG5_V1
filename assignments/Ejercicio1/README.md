@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# cuenta pares e impares
-## Tema: Listas
+# Divide una lista por número de caracteres
+## Involucra ciclos, listas, condicionales
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
