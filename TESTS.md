@@ -9,7 +9,7 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 02 Contar Pares Impares
+- ## Ejercicio 1 - Ciclos, listas y funciones
     ### Run command
     ```
     pytest assignments/02ContarParesImpares
